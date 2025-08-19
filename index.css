@@ -1,0 +1,433 @@
+
+.navbar-nav .nav-link {
+  color: black !important;
+  font-weight: 500;
+}
+
+/* On hover, change link to red */
+.navbar-nav .nav-link:hover {
+  color: red !important;
+}
+
+/* Right side text "EN" */
+.d-flex span {
+  font-weight: 500;
+}
+
+/* Style the "Sign Up" button */
+.btn-outline-danger:hover {
+  background-color: red;
+  color: white;
+}
+.container2{
+  
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background-image: url(images/Sparklebg.jpg);
+  background-position: 1px; */
+
+}
+.zz{
+ z-index: -1;
+}
+.z{
+  margin-top: 10%;
+  width: 10%;
+  height: 50%;
+  
+} 
+
+.container2 button{
+    width: 15vw;
+    color: #ffffff;
+    padding: 10px;
+    background-color: #056cb8;
+    margin-top: 3%;
+    border-radius: 0px; 
+}
+ .zindex{
+  position: absolute;
+  top: 40%;
+  margin-top: 20%;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7%;
+}
+.redline{
+  color: red;
+
+}
+
+#three{
+    margin-top: 5%;
+}
+#three h6{
+font-weight: bold;
+}
+.para{
+    width: 67%;
+    margin-top: 35%;
+    margin-left: 20%;
+   font-family: Georgia Ref Georgia Bold Georgia-Bold Georgia Italic Georgia-Italic;
+}
+.para button{
+    background-color: #056cb8;;
+    color: white;
+    border-radius: 0px ;
+    padding:10px 30px 10px 30px ;
+    font-size: large;
+    border: none;    
+
+}
+.d-blocks{
+  margin-top: 15%;
+  margin-bottom: 3%;
+  margin-left: 25%;
+}
+
+.quotes{
+  font-weight: lighter;
+  margin-left: 28%;
+  font-size: larger;
+  width: 50%;
+  
+}
+.t{
+  margin-top: 1%;
+  margin-left: 28%;
+  font-weight: lighter;
+}
+.m{
+  
+   margin-left: 28%;
+   font-size: smaller;
+}
+.person{
+  width: 7vw;
+  height: 8vw;
+  margin-left: 4%;
+
+
+}
+.imgper{
+  display: flex;
+  flex-direction: row;
+}
+.a{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  margin-top: 1%;
+  font-size: 13px;
+  font-weight: 500;
+  margin-left: 30%;
+  color: #056cb8;
+  text-decoration: none;
+}
+
+
+.sec4{
+ margin-top: 10%;
+
+ background-image: url(images/templebg.jpg);
+ width: 100%;
+  height: 100vh;
+  object-fit: cover;  
+  color: #ffffff;
+}
+
+.shield{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.bton{
+  margin-top: 5%;
+  padding: 15px 35px 15px 35px;
+  background-color: #ffffff;
+  border-color: #056cb8;
+  color: #056cb8;
+}
+/* .fa-solid{
+  padding: 10px 20px 10px 20px;
+  border-radius: none;
+} */
+.fa-regular{
+  color: red;
+}
+
+
+.final {
+ 
+  margin-top: 7%;
+  width:100%;
+  height: 100vh;      
+  overflow: hidden;    
+}
+
+
+.finale{
+   padding: 10px;
+  background-color: rgb(249, 248, 248);
+  margin: 50px;
+  position: absolute;
+  top: 507%;
+  z-index: 3;
+}
+.final img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   
+  
+}
+.finale col{
+  margin-right: 20px;
+}
+
+.three img{
+  height: 9vh;
+  width: 8vw;
+}
+
+.core{
+  font-size: 44px;
+  font-weight: 400;
+  width: 44%;
+  margin-left: 30%;
+  display: flex;
+  margin-top: 10%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.three{
+  margin-top: 10%;
+}
+
+
+.three h1{
+  margin-top: 5%;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.three p{
+  margin-top: 5%;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+
+.finale button{
+  background-color: #056cb8;;
+    color: white;
+    border-radius: 0px ;
+    padding:10px 30px 10px 30px ;
+    font-size: large;
+    border: none;  
+    margin-top: 3%;
+    margin-left: 43%; 
+    margin-bottom: 5%;
+
+}
+
+.million{
+  margin: 1%;
+  width: 40%;
+ display: flex;
+ flex-direction: column;
+ align-items: start;
+ padding-left: 6%;
+
+}
+.nums{
+  margin-bottom: 15%;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.million span{
+  font-size: 45px;
+  font-weight: 400;
+ 
+}
+
+.million p{
+  font-size: 17px;
+  font-weight: 400;
+  width: 10%;
+  margin-right: 5%;
+  /* padding-right: 5%; */
+}
+
+.sec4 h1{
+  padding-top:8%;
+  padding-left: 7%;
+  padding-bottom: 3%;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.nums button{
+  color: white;
+  border: #ffffff 1px solid;
+  padding: 18px 30px 18px 30px;
+  border-radius: 3px;
+margin-right: 300px;
+  margin-top: 15%;
+  width: 18vw;
+}
+/* ***************************/
+.footer{
+  margin-top: 45%;
+}
+
+      .zoho-footer-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        padding-top: 55PX;
+        padding-bottom: 45px;
+      }
+      .zoho-footer-1-content p:last-child{
+        display: flex;
+        flex-direction: column;
+        padding-top: 10px;
+        align-items: center;
+      }
+      .zoho-footer-1-button{
+        padding-top: 30px;
+        
+      }
+      .zoho-footer-1-button button{
+        border: none;
+        padding-top: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 15px;
+        background-color: red;
+        color:white;
+        font-size: 14px;
+      }
+      .zoho-footer-1-button a{
+        text-decoration: none;
+        color: white;
+      }
+      .zoho-footer-2{
+        padding-top: 30px;
+        background-color: white;
+       }
+        .zoho-footer-2-content{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+        }
+        .zoho-footer-2-col-1 a{
+          text-decoration: none;
+          
+        }
+        .zoho-footer-2-col-1 p{
+            color:black;
+            padding-bottom: 12px;
+        }
+         .zoho-footer-2-col-2 a{
+          text-decoration: none;
+          
+        }
+        .zoho-footer-2-col-2 p{
+            color:black;
+            padding-bottom: 12px;
+        } 
+        .zoho-footer-2-col-3 a{
+          text-decoration: none;
+          
+        }
+        .zoho-footer-2-col-3 p{
+            color:black;
+            padding-bottom: 12px;
+        } 
+        .zoho-footer-2-col-4 a{
+          text-decoration: none;
+          
+        }
+        .zoho-footer-2-col-4 p{
+            color:black;
+            padding-bottom: 12px;
+        }
+        .zoho-footer-2-col-5 p{
+            color:black;
+            padding-bottom: 12px;
+        }
+        .zoho-footer-3-logo {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            padding-top: 80px;
+
+        }
+        .zoho-footer-3-content-1{
+           display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            padding-top: 10px;
+        }
+        .zoho-footer-3-content-2{
+         display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            padding-bottom: 50px;
+        }
+        .zoho-footer-3-content-1 a{
+            text-decoration: none;
+            color: black;
+            font-size: 13px;
+            padding: 0px 10px 0px 10px;
+
+        }
+        .zoho-footer-3-content-2 a{
+            text-decoration: none;
+            color: black;
+            font-size: 13px;
+            padding: 10px 10px 0px 10px;
+
+        }
+        .zoho-footer-4 {
+             background-color: #0B0D1F;
+             padding: 2%;
+        }
+
+        .zoho-footer-4-logo {
+            display: flex;
+            flex-direction: row;
+
+            justify-content: center;
+            align-items: center;
+        }
+
+        .zlogo{
+          margin-bottom: 2%;
+        }
+
+        .zoho-footer-4-content {
+            display: flex;
+            flex-direction: column;
+            color: white;
+            align-items: center;
+            padding-bottom: 30px;
+            
+        }
+
+   
